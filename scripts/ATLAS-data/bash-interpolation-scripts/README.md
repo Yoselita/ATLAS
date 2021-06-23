@@ -1,4 +1,4 @@
-# Interpolation
+# Bash interpolation scripts
 Scripts used for the conservative interpolation of the CORDEX files
 
 All the raw model outputs from the CMIP5, CMIP6 and CODEX experiments have been interpolated to a common grid using the fist order conservative remapping with [cdo](https://code.mpimet.mpg.de/projects/cdo/)
