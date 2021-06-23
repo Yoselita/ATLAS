@@ -1,4 +1,4 @@
-The script **CORDEX_remap.sh** was used to perform the interpolation of all CORDEX data used in ATLAS to the common 0.5 degree grid. 
+The script **CORDEX_remap.sh** was used to perform the interpolation of all CORDEX data to the common 0.5 degree grid. 
 
 To run the script:
  	
@@ -16,4 +16,4 @@ The script has **4 steps**:
      <details><summary>Script looks for land-sea mask of the corresponding CORDEX model. If found, then land-sea correction will be applied. If not, then basic conservation remapping will be done. 
      <details><summary>Renaming files and moving them to the final output
 
-**NOTE**: source.grid files for all the interpolated CORDEX grids interpolated for ATLAS are available at [doi](10.5281/zenodo.5017703).
+**NOTE**: source.grid files for all the interpolated CORDEX grids interpolated for Atlas are available at [doi](10.5281/zenodo.5017703).
