@@ -16,4 +16,4 @@ The script has **4 steps**:
      <details><summary>Script looks for land-sea mask of the corresponding CORDEX model. If found, then land-sea correction will be applied. If not, then basic conservation remapping will be done. 
      <details><summary>Renaming files and moving them to the final output
 
-**NOTE**: source.grid files for all the interpolated CORDEX grids interpoalted for ATLAS are available in the CORDEX_SOURCEGRIDS folder.
+**NOTE**: source.grid files for all the interpolated CORDEX grids interpolated for ATLAS are available at [doi](10.5281/zenodo.5017703).
